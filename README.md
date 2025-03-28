@@ -1,0 +1,2 @@
+# AttendSure
+Smart Attendance App 
